@@ -1,0 +1,1032 @@
+{
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "XA81DpVJnLTB1kkVEbqLu5R163NQ75cOybd35",
+      "amount": -8,
+      "date": "2015-04-20",
+      "name": "PURCHASE RETURN AUTHORIZED ON 04/19 LIZA BOCK . / CA S625110545989928 CARD 2158",
+      "meta": {
+        "payment_processor": "Square Cash",
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "unresolved"
+      },
+      "score": {
+        "location": {},
+        "name": 0.2
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "zqLw9b54VDCmr336AyoKUM0Zv31b9MSzRyv6m",
+      "amount": 500,
+      "date": "2015-04-17",
+      "name": "PAYPAL ECHECK 150416 GRACEHUANG9 REID SATA",
+      "meta": {
+        "payment_processor": "PayPal",
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Transfer",
+        "Third Party",
+        "PayPal"
+      ],
+      "category_id": "21010004",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "mo4bLNK105hZAvvobeQ5U8DqBRVyd8hmQkBLO",
+      "amount": 5,
+      "date": "2015-04-17",
+      "name": "NON-WELLS FARGO ATM TRANSACTION FEE",
+      "meta": {
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Bank Fees",
+        "ATM"
+      ],
+      "category_id": "10002000",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "dR9r7O6EP0u9ADDV471EIk6EopvdNkF8LJKxe",
+      "amount": 247.4,
+      "date": "2015-04-17",
+      "name": "NON-WF ATM WITHDRAWAL AUTHORIZED ON 04/17 BICIS GAB 12 STBICIS GAB DAKAR SN 00305107660171893 ATM ID 00204012 CARD 2158",
+      "meta": {
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Transfer",
+        "Withdrawal",
+        "ATM"
+      ],
+      "category_id": "21012002",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "nb4g1NkPjou86NN0weJEFjgVBz8rNjhMNoBbL",
+      "amount": 0.16,
+      "date": "2015-04-14",
+      "name": "PAYPAL VERIFYBANK 150414 405YKJ222GQNAZU REID SATA",
+      "meta": {
+        "payment_processor": "PayPal",
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Transfer",
+        "Third Party",
+        "PayPal"
+      ],
+      "category_id": "21010004",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "pJ493bvB8ghKJ66LZegwFDR739AkjDu7Db39B",
+      "amount": 500,
+      "date": "2015-04-14",
+      "name": "GABRIELLA SELT",
+      "meta": {
+        "payment_processor": "Square Cash",
+        "location": {
+          "state": "CA"
+        }
+      },
+      "pending": false,
+      "type": {
+        "primary": "place"
+      },
+      "score": {
+        "location": {
+          "state": 1
+        },
+        "name": 0.2
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "XA81DpVJnLTB1kkVEbqLu5R163NQ75cOybd3A",
+      "amount": 80.65,
+      "date": "2015-04-14",
+      "name": "CLARE UPTON",
+      "meta": {
+        "payment_processor": "Square Cash",
+        "location": {
+          "state": "CA"
+        }
+      },
+      "pending": false,
+      "type": {
+        "primary": "place"
+      },
+      "score": {
+        "location": {
+          "state": 1
+        },
+        "name": 0.2
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "NLJEgpxKnbua5JJe7Px8UvMO3A6R8vTpQwo14",
+      "amount": -140,
+      "date": "2015-04-14",
+      "name": "ONLINE TRANSFER FROM SATA L REF #IBEQZXQ2FM CHECKING VISAS IN SENEGAL",
+      "meta": {
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Transfer",
+        "Credit"
+      ],
+      "category_id": "21005000",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "eJM4VOLRqjh73xx1reORU4wA0VMXe4hLYrn8v",
+      "amount": -0.08,
+      "date": "2015-04-14",
+      "name": "PAYPAL VERIFYBANK 150414 205YKJ222GQNAZU REID SATA",
+      "meta": {
+        "payment_processor": "PayPal",
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Transfer",
+        "Third Party",
+        "PayPal"
+      ],
+      "category_id": "21010004",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "YvpmPeO8nDS6m33AExoDsLE89kMQrLhnYPJKm",
+      "amount": -0.08,
+      "date": "2015-04-14",
+      "name": "PAYPAL VERIFYBANK 150414 105YKJ222GQNAZU REID SATA",
+      "meta": {
+        "payment_processor": "PayPal",
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Transfer",
+        "Third Party",
+        "PayPal"
+      ],
+      "category_id": "21010004",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "QPJnEpZvX9uN3RRZYJQpT0NBJjPEL0swM6Opo",
+      "amount": -20,
+      "date": "2015-04-13",
+      "name": "RECURRING TRANSFER FROM SATA L REF #OPETWYWMS8 CHECKING COLLEGE ALLOWANCE",
+      "meta": {
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Transfer",
+        "Credit"
+      ],
+      "category_id": "21005000",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "Evb53pK6mrSmQYYKO1e4UkopELMv3kFZ8zQOP",
+      "amount": 5,
+      "date": "2015-04-07",
+      "name": "NON-WELLS FARGO ATM TRANSACTION FEE",
+      "meta": {
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Bank Fees",
+        "ATM"
+      ],
+      "category_id": "10002000",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "RqJpQX50nVCkj885Y36oCnrE1vZKynuKoYeMQ",
+      "amount": 33.65,
+      "date": "2015-04-07",
+      "name": "NON-WF ATM WITHDRAWAL AUTHORIZED ON 04/07 CS GAB 12 BOURGCS GAB 12 DAKAR SN 00305097423667728 ATM ID 00000070 CARD 2158",
+      "meta": {
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Transfer",
+        "Withdrawal",
+        "ATM"
+      ],
+      "category_id": "21012002",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "M6JMopaynmco9BBaxOXRU1BnPEK5v1hBOEXvD",
+      "amount": -20,
+      "date": "2015-04-06",
+      "name": "RECURRING TRANSFER FROM SATA L REF #OPEK7RPKK8 CHECKING COLLEGE ALLOWANCE",
+      "meta": {
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Transfer",
+        "Credit"
+      ],
+      "category_id": "21005000",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "ODOR9pJkngc14AAJYQ7DfywZ4eO8ByHZeYxQ3",
+      "amount": -2000,
+      "date": "2015-04-03",
+      "name": "LEWIS & CLARK CO PAYMENT 150402 1757785 REID T. SATA",
+      "meta": {
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Payment"
+      ],
+      "category_id": "16000000",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "VKQLdp7anwt0L557ErvwcgbAkeMrQgfzYB4PD",
+      "amount": -20,
+      "date": "2015-03-30",
+      "name": "RECURRING TRANSFER FROM SATA L REF #OPECFLCZ6G CHECKING COLLEGE ALLOWANCE",
+      "meta": {
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Transfer",
+        "Credit"
+      ],
+      "category_id": "21005000",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "7dKy5XpokLTNdrrAV1kXToeB3MdbjoS4EN0bA",
+      "amount": 3.24,
+      "date": "2015-03-25",
+      "name": "INTERNATIONAL PURCHASE TRANSACTION FEE",
+      "meta": {
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "unresolved"
+      },
+      "score": {
+        "location": {},
+        "name": 0.2
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "96Ak7XNgv1cJ6aarjN3oCMA8OQNxDMSP4QgvR",
+      "amount": 108.1,
+      "date": "2015-03-25",
+      "name": "Air France",
+      "meta": {
+        "location": {
+          "store_number": "2158"
+        }
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Travel",
+        "Airlines and Aviation Services"
+      ],
+      "category_id": "22001000",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "gJ8xRO1n34had88PKer4U6pzJX4gZ6uMaR8r4",
+      "amount": -20,
+      "date": "2015-03-23",
+      "name": "RECURRING TRANSFER FROM SATA L REF #OPEXSTMQBQ CHECKING COLLEGE ALLOWANCE",
+      "meta": {
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Transfer",
+        "Credit"
+      ],
+      "category_id": "21005000",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "bn805pdODAS94jjBvVZzIA6k901dNAuxo1Jko",
+      "amount": -80,
+      "date": "2015-03-19",
+      "name": "PURCHASE RETURN AUTHORIZED ON 03/18 GABRIELLA SELT . / CA S625078546799876 CARD 2158",
+      "meta": {
+        "payment_processor": "Square Cash",
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "unresolved"
+      },
+      "score": {
+        "location": {},
+        "name": 0.2
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "oJ47qNAmObhYO66NZ7dMUrQx4RgvMrcdy74RO",
+      "amount": -300,
+      "date": "2015-03-17",
+      "name": "ONLINE TRANSFER FROM SATA L REF #IBEN4MQP7L CHECKING CHANGE OF FLIGHT TO ATTEND KAIS GRADTN",
+      "meta": {
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Transfer",
+        "Credit"
+      ],
+      "category_id": "21005000",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "543BxXQZywTjk00mDb3xhzL9rjayOzub1owrd",
+      "amount": -20,
+      "date": "2015-03-16",
+      "name": "RECURRING TRANSFER FROM SATA L REF #OPEXSRVX73 CHECKING COLLEGE ALLOWANCE",
+      "meta": {
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Transfer",
+        "Credit"
+      ],
+      "category_id": "21005000",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "Z0RqBOMZn1syqvv9EB71U6aBvqgRQ6uzjObez",
+      "amount": -80,
+      "date": "2015-03-10",
+      "name": "VISA MONEY TRANSFER AUTHORIZED ON 03/10 FROM Katherine Craighead CA S465069577499457 CARD 2158",
+      "meta": {
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Transfer",
+        "Credit"
+      ],
+      "category_id": "21005000",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "JmJ9apjqv8TpyxxjN7EJc5nXkjpbq5cAqnmK7",
+      "amount": -80,
+      "date": "2015-03-09",
+      "name": "PAYPAL TRANSFER 150307 5UVJ28NQ6C6NS SATA REID",
+      "meta": {
+        "payment_processor": "PayPal",
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Transfer",
+        "Third Party",
+        "PayPal"
+      ],
+      "category_id": "21010004",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "8wkKbeXmADfQw44q9oPVfbV6QLaopbsmB0xoJ",
+      "amount": -20,
+      "date": "2015-03-09",
+      "name": "RECURRING TRANSFER FROM SATA L REF #OPE5M9TYGW CHECKING COLLEGE ALLOWANCE",
+      "meta": {
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Transfer",
+        "Credit"
+      ],
+      "category_id": "21005000",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "aJmv8ONVLkhwQqqromRkHYBK4k65PYuybE707",
+      "amount": 300,
+      "date": "2015-03-06",
+      "name": "Delta Air Lines",
+      "meta": {
+        "location": {
+          "city": "Seattle",
+          "state": "WA",
+          "store_number": "006754"
+        }
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Travel",
+        "Airlines and Aviation Services"
+      ],
+      "category_id": "22001000",
+      "score": {
+        "location": {
+          "city": 1,
+          "state": 1
+        },
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "x1wpob8j76u97qqdQVZ3ImqwOA51zmhAynO7m",
+      "amount": -10,
+      "date": "2015-03-06",
+      "name": "VISA MONEY TRANSFER AUTHORIZED ON 03/06 FROM Clare Upton CA S305065423681641 CARD 2158",
+      "meta": {
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Transfer",
+        "Credit"
+      ],
+      "category_id": "21005000",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "0ADLyXV419T7qmmjAvyDUOaZm7zEPOhxoQA6k",
+      "amount": 883,
+      "date": "2015-03-05",
+      "name": "AIRBNB COM",
+      "meta": {
+        "payment_processor": "PayPal",
+        "location": {
+          "state": "CA"
+        }
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Transfer",
+        "Third Party",
+        "PayPal"
+      ],
+      "category_id": "21010004",
+      "score": {
+        "location": {
+          "state": 1
+        },
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "jboZeOB6kJuKqppkv91JFvRX1w7LVvTQmKeEV",
+      "amount": -80,
+      "date": "2015-03-05",
+      "name": "PURCHASE RETURN AUTHORIZED ON 03/04 LAUREN SCOTT . / CA S625064547046691 CARD 2158",
+      "meta": {
+        "payment_processor": "Square Cash",
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "unresolved"
+      },
+      "score": {
+        "location": {},
+        "name": 0.2
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "rJ4OAbjy89hz8nnN1BvLf8ZPVj7vq8hKe0VoZ",
+      "amount": -80,
+      "date": "2015-03-05",
+      "name": "PURCHASE RETURN AUTHORIZED ON 03/04 GABRIELLA SELT . / CA S625064547046690 CARD 2158",
+      "meta": {
+        "payment_processor": "Square Cash",
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "unresolved"
+      },
+      "score": {
+        "location": {},
+        "name": 0.2
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "4rBq4XR83dcgKvvY9RnDIXENjgpaMXi18ORak",
+      "amount": -10,
+      "date": "2015-03-05",
+      "name": "PURCHASE RETURN AUTHORIZED ON 03/04 KATHERINE CRAI . / CA S625064547046692 CARD 2158",
+      "meta": {
+        "payment_processor": "Square Cash",
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "unresolved"
+      },
+      "score": {
+        "location": {},
+        "name": 0.2
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "AyNxwXqQ1AS3XmmqJgMDI980jvpm79cZQeMmm",
+      "amount": 25,
+      "date": "2015-03-04",
+      "name": "LEAH KENNEY . /",
+      "meta": {
+        "payment_processor": "Square Cash",
+        "location": {
+          "state": "CA"
+        }
+      },
+      "pending": false,
+      "type": {
+        "primary": "place"
+      },
+      "score": {
+        "location": {
+          "state": 1
+        },
+        "name": 0.2
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "vLVQJbxv8duZr11zePwqUvobV1943vTYz6VwA",
+      "amount": -10,
+      "date": "2015-03-04",
+      "name": "VISA MONEY TRANSFER AUTHORIZED ON 03/04 FROM Liza Bock CA S305063676488128 CARD 2158",
+      "meta": {
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Transfer",
+        "Credit"
+      ],
+      "category_id": "21005000",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "kZb5zO3LA8cOj66pNYe8UboNaAq04bsp0JokL",
+      "amount": -70,
+      "date": "2015-03-03",
+      "name": "PURCHASE RETURN AUTHORIZED ON 03/02 CLARE UPTON . / CA S625062547116326 CARD 2158",
+      "meta": {
+        "payment_processor": "Square Cash",
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "unresolved"
+      },
+      "score": {
+        "location": {},
+        "name": 0.2
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "3mqPjXEJBMTDyAAo64RwUa4MZokXdaHzQ4oXj",
+      "amount": -20,
+      "date": "2015-03-02",
+      "name": "RECURRING TRANSFER FROM SATA L REF #OPE5M7WKB3 CHECKING COLLEGE ALLOWANCE",
+      "meta": {
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Transfer",
+        "Credit"
+      ],
+      "category_id": "21005000",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "yP6dgbZr8Lu3pBBwXomyIRPApZK1NRuD9dpwd",
+      "amount": -70,
+      "date": "2015-03-02",
+      "name": "VISA MONEY TRANSFER AUTHORIZED ON 03/02 FROM Katherine Craighead CA S465061338307035 CARD 2158",
+      "meta": {
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Transfer",
+        "Credit"
+      ],
+      "category_id": "21005000",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "KdmVJYrB0ZTo6LLr9EB3U4wxNj5zk4hLA8EOx",
+      "amount": -70,
+      "date": "2015-03-02",
+      "name": "VISA MONEY TRANSFER AUTHORIZED ON 03/01 FROM Liza Bock CA S465060664587307 CARD 2158",
+      "meta": {
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Transfer",
+        "Credit"
+      ],
+      "category_id": "21005000",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "BKVJLXBnPvtxKLLB305Es6zaNRLEK6u8QJ3mV",
+      "amount": 50,
+      "date": "2015-02-26",
+      "name": "AGENT FEE 890063 NOB HILL TRAV OR",
+      "meta": {
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "unresolved"
+      },
+      "score": {
+        "location": {},
+        "name": 0.2
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "1v1DkXOaPVS3BKKXd0eRIwpzRjZo5wcoELn5N",
+      "amount": 5,
+      "date": "2015-02-23",
+      "name": "NON-WELLS FARGO ATM TRANSACTION FEE",
+      "meta": {
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Bank Fees",
+        "ATM"
+      ],
+      "category_id": "10002000",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "P1bQOp8An7uV9nn8YKxgIb8YJrqmybsaD4oLN",
+      "amount": 174.25,
+      "date": "2015-02-23",
+      "name": "NON-WF ATM WITHDRAWAL AUTHORIZED ON 02/23 CS GAB 12 BOURGCS GAB 12 DAKAR SN 00465054409659326 ATM ID 00000070 CARD 2158",
+      "meta": {
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Transfer",
+        "Withdrawal",
+        "ATM"
+      ],
+      "category_id": "21012002",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "qJxVKb0387he8ddLD7m6HorVDBzA0oSxP3DR6",
+      "amount": -20,
+      "date": "2015-02-23",
+      "name": "RECURRING TRANSFER FROM SATA L REF #OPEGBB4BWR CHECKING COLLEGE ALLOWANCE",
+      "meta": {
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Transfer",
+        "Credit"
+      ],
+      "category_id": "21005000",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "DAYZqpywBjT6AOOyNQ7Xsnx0gLJ3Qnuz0Bwer",
+      "amount": -20,
+      "date": "2015-02-17",
+      "name": "RECURRING TRANSFER FROM SATA L REF #OPE8J5C8CY CHECKING COLLEGE ALLOWANCE",
+      "meta": {
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Transfer",
+        "Credit"
+      ],
+      "category_id": "21005000",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "LwJOZN43j5fvdEE40YOjcaAZ8oK0qaHdarZ5q",
+      "amount": 87.08,
+      "date": "2015-02-13",
+      "name": "NON-WF ATM WITHDRAWAL AUTHORIZED ON 02/13 CS GAB 12 BOURGCS GAB 12 DAKAR SN 00465044323817503 ATM ID 00000070 CARD 2158",
+      "meta": {
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Transfer",
+        "Withdrawal",
+        "ATM"
+      ],
+      "category_id": "21012002",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "6ay38Xn5K6CBnjjM1D4wuo3NMVKnZoSVm1wjr",
+      "amount": 5,
+      "date": "2015-02-13",
+      "name": "NON-WELLS FARGO ATM TRANSACTION FEE",
+      "meta": {
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Bank Fees",
+        "ATM"
+      ],
+      "category_id": "10002000",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    },
+    {
+      "_account": "vLVQJbxv8duZr11zePwqUvVKQ4ErYJtvwbZA5",
+      "_id": "6ay38Xn5K6CBnjjM1D4wuo3NMVKnZoSVm1wnP",
+      "amount": -20,
+      "date": "2015-02-09",
+      "name": "RECURRING TRANSFER FROM SATA L REF #OPE5LZVB7P CHECKING COLLEGE ALLOWANCE",
+      "meta": {
+        "location": {}
+      },
+      "pending": false,
+      "type": {
+        "primary": "special"
+      },
+      "category": [
+        "Transfer",
+        "Credit"
+      ],
+      "category_id": "21005000",
+      "score": {
+        "location": {},
+        "name": 1
+      }
+    }
+  ],
+  "access_token": "5564c093350fd3d7f3b6eef8c47ca2c752928222a25c67dd3a796da20fa2bf554c482b000a0012a7ea48e7e2ec6cb1b34bcddd8b6cf2924e3af190b5224947918d139d43c2decdf7a1ea361a9dcf3874"
+}
